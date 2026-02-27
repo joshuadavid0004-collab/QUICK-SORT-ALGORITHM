@@ -1,7 +1,5 @@
-/* 
-Name: Joshua David
-Adm No: EB3/67259/23
-*/
+// NAME: JOSHUA DAVID
+// ADM NO: EB3/67259/23
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -260,3 +258,4 @@ int main() {
     free(arr);
     return 0;
 }
+
